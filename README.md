@@ -27,5 +27,5 @@ The project is based on a web form which accepts data from user and uploads the 
 
 
 **Sample snapshots:**
-![GitHub Logo](/images/logo.png)
+
 Format: ![JsonPowerDB Interface](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
