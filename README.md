@@ -32,6 +32,9 @@ The project is based on a web form which accepts data from user and uploads the 
 
 **Data Instances :** ![instances](https://user-images.githubusercontent.com/60187368/111586135-62845680-87e6-11eb-8f02-8635924cbbe3.PNG)
 
+**Form sample : **![op](https://user-images.githubusercontent.com/60187368/111588246-49c97000-87e9-11eb-9dc3-696d582cbc65.PNG)
+
+
 **Operations performed :**
 All CRUD operations can be performed
 
