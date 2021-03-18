@@ -1,5 +1,5 @@
 # Login2XploreProject
-**Web Form**
+**Web Form using JsonPowerDB**
 The project is based on a web form which accepts data from user and uploads the data into database on submission. The form has been implemented using bootstrap, jquery and javascript. The database used is jsonPowerDB which is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
 
 **Benefits of using JsonPowerDB**
@@ -24,3 +24,8 @@ The project is based on a web form which accepts data from user and uploads the 
              (by default it should pick the record creation time from the JPDB system file internal 
              recorded time) defined in request fromTime to toTime.
 * Fixed : Fixed important bugs.  
+
+
+**Sample snapshots:**
+![GitHub Logo](/images/logo.png)
+Format: ![JsonPowerDB Interface](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
