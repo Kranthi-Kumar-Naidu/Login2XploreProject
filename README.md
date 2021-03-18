@@ -31,7 +31,7 @@ The project is based on a web form which accepts data from user and uploads the 
 Interface: ![JsonPowerDB Interface](https://github.com/BeAgarwal/JsonPowerDB/raw/master/Assets/Screenshots/Dashboard.PNG)
 Data Instances : ![JsonPowerDB Interface](https://github.com/BeAgarwal/JsonPowerDB/raw/master/Assets/Screenshots/Server.PNG)
 
-**Operations performed : **
+**Operations performed :**
 All CRUD operations can be performed
 
 * **Registration** : Insert Data
