@@ -28,8 +28,9 @@ The project is based on a web form which accepts data from user and uploads the 
 
 **Sample snapshots:**
 
-**Interface :** ![JsonPowerDB Interface](https://github.com/BeAgarwal/JsonPowerDB/raw/master/Assets/Screenshots/Dashboard.PNG)
-**Data Instances :** ![JsonPowerDB Interface](https://github.com/BeAgarwal/JsonPowerDB/raw/master/Assets/Screenshots/Server.PNG)
+**Interface :** ![interface](https://user-images.githubusercontent.com/60187368/111586108-58625800-87e6-11eb-992e-4cc51030baad.PNG)
+
+**Data Instances :** ![instances](https://user-images.githubusercontent.com/60187368/111586135-62845680-87e6-11eb-8f02-8635924cbbe3.PNG)
 
 **Operations performed :**
 All CRUD operations can be performed
